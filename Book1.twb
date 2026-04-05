@@ -817,10 +817,10 @@
         <drill-path name='state, city' />
       </drill-paths>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' authentication='auth-none' author-locale='en_GB' class='hyper' dbname='C:/Users/amina/Desktop/airbnb-price-optimization/fixed.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='04/05/2026 12:42:38 AM' username='tableau_internal_user'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_GB' class='hyper' dbname='C:/Users/amina/Desktop/airbnb-price-optimization/fixed (3).hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='04/05/2026 12:52:14 AM' username='tableau_internal_user'>
           <relation name='Extract' table='[Extract].[Extract]' type='table' />
           <refresh>
-            <refresh-event add-from-file-path='fixed (3)' increment-value='%null%' refresh-type='create' rows-inserted='3754' timestamp-start='2026-04-05 00:42:37.672' />
+            <refresh-event add-from-file-path='fixed (3)' increment-value='%null%' refresh-type='create' rows-inserted='3754' timestamp-start='2026-04-05 00:52:14.295' />
           </refresh>
           <metadata-records>
             <metadata-record class='column'>
@@ -2315,8 +2315,8 @@
           </layout-options>
           <size maxheight='1800' minheight='1800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='47' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='46' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='49' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='48' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='4250' id='36' type-v2='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />

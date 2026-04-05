@@ -40,3 +40,7 @@ python score.py
 
 ## Tools Used
 Python, FLAML, SHAP, Pandas, Scikit-learn, Tableau
+
+
+##dashboard link
+https://public.tableau.com/app/profile/amina.baziz/viz/SeattleAirbnbPriceOptimization/airbnb-price-optimization?publish=yes
